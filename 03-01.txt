@@ -19,3 +19,5 @@ dfddfdfd
 
 
 ggdgsdgs
+
+to check for push cmd to github repo
